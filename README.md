@@ -46,7 +46,7 @@ API Detals:
 
 # Error
 
-- For some billing-related issue in my **Cloud Console** account, My API Key is not working properly, to use this application in full functionality change the API key by using the [above](https://github.com/smartinternz02/SPSGP-80732-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/Nearby%20Places/README.md#google-api) Instruction.
+- For some billing-related issue in my **Cloud Console** account, My API Key is not working properly, to use this application in full functionality change the API key by using the [above](https://github.com/Devil-Soumitra/NearbyPlaces/blob/master/README.md#google-api) Instruction.
 
 <details>
      <summary> Screenshorts </summary>
