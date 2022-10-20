@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/90763881/197014979-0ca2c6e9-48e8-4e80-9de4-51fe019b20dd.png" alt="App lcon">
+</p>
+
 # Project-1 "Nearby Places"
 
 This android application can find Bussiness near 10 KM radious in device Location.
