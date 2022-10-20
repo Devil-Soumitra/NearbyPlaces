@@ -49,10 +49,10 @@ API Detals:
 - For some billing-related issue in my **Cloud Console** account, My API Key is not working properly, to use this application in full functionality change the API key by using the [above](https://github.com/smartinternz02/SPSGP-80732-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/Nearby%20Places/README.md#google-api) Instruction.
 
 <details>
-    <summary> Screenshorts </summary>
-    
-     Get Location Permition  |            UI
-  :-------------------------:|:-------------------------:
+     <summary> Screenshorts </summary>
+  
+   Starting Screen         | Adding items to list
+:-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/90763881/197004346-b15eada3-fdc6-4c7e-ae92-066ac5e751ec.jpg)|![](https://user-images.githubusercontent.com/90763881/197004530-435d03f9-f6ae-42b2-a16d-cd3e1432bc69.jpg)|
-
+  
 </details>
