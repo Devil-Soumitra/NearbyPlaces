@@ -51,7 +51,11 @@ API Detals:
 <details>
     <summary> Screenshorts </summary>
     
-    Get Location Permition |  UI
+       Get Location Permition  |            UI
     :-------------------------:|:-------------------------:
-    ![](https://user-images.githubusercontent.com/90763881/191563819-bcdb758f-bc9d-47e4-aa5c-5f0e37b1a232.jpg)|![](https://user-images.githubusercontent.com/90763881/191563975-e9695b4d-6ca1-41bb-aea4-95cc00b3f9a9.jpg)|
+
+    ![](https://user-images.githubusercontent.com/90763881/197004346-b15eada3-fdc6-4c7e-ae92-066ac5e751ec.jpg)|![](https://user-images.githubusercontent.com/90763881/197004530-435d03f9-f6ae-42b2-a16d-cd3e1432bc69.jpg)|
+
+
 </details>
+
